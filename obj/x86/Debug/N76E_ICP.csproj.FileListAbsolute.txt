@@ -1,0 +1,6 @@
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICP.csprojAssemblyReference.cache
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICE.Form_cfg.resources
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICE.Main_Form.resources
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICE.Properties.Resources.resources
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICP.csproj.GenerateResource.cache
+d:\Projects\PC projects\NUprog\obj\x86\Debug\N76E_ICP.csproj.CoreCompileInputs.cache
